@@ -74,8 +74,17 @@ h2{
     margin-right: 5%;
     padding-top: 10px;
     padding-left: 30px;
+    padding-bottom: 100px;
     border-radius: 5px;
     box-shadow: 10px 10px 40px gray;
+}
+
+.full-stack{
+    border-left: 7px solid #FF6347;
+}
+
+.baby-web{
+    border-left: 7px solid #0000FF; 
 }
 
 
@@ -83,4 +92,10 @@ h2{
     margin-bottom: 15px;
     font-size: 18px;
  
+}
+
+footer{
+    text-align: center;
+    padding-bottom: 20px;
+    color: rgb(97, 97, 97);
 }
